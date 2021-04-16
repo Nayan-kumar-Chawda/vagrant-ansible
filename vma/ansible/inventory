@@ -1,0 +1,2 @@
+[rhel]
+192.168.33.20 ssh_username=vagrant,ssh_password=vagrant

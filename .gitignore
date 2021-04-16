@@ -1,0 +1,8 @@
+# ignore vagrant cache
+.vagrant/
+
+# ignore vscode settings
+.vscode/
+
+# ignore log files
+**/*.log
